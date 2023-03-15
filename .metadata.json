@@ -1,14 +1,14 @@
 [
   {
+    "package": "SemNeT",
+    "oncran": true
+  },
+  {
     "package": "SemNetCleaner",
     "oncran": true
   },
   {
     "package": "SemNetDictionaries",
-    "oncran": true
-  },
-  {
-    "package": "SemNeT",
     "oncran": true
   }
 ]
