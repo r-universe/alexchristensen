@@ -3,11 +3,6 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "SemNeT"]
-	path = SemNeT
-	url = https://github.com/alexchristensen/semnet
-	shallow = true
-	registered = true
 [submodule "SemNetCleaner"]
 	path = SemNetCleaner
 	url = https://github.com/alexchristensen/semnetcleaner
@@ -16,5 +11,10 @@
 [submodule "SemNetDictionaries"]
 	path = SemNetDictionaries
 	url = https://github.com/alexchristensen/semnetdictionaries
+	shallow = true
+	registered = true
+[submodule "SemNeT"]
+	path = SemNeT
+	url = https://github.com/alexchristensen/semnet
 	shallow = true
 	registered = true
