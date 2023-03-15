@@ -1,5 +1,13 @@
 [
   {
+    "package": "latentFactoR",
+    "oncran": true
+  },
+  {
+    "package": "NetworkToolbox",
+    "oncran": true
+  },
+  {
     "package": "SemNeT",
     "oncran": true
   },
@@ -9,6 +17,10 @@
   },
   {
     "package": "SemNetDictionaries",
+    "oncran": true
+  },
+  {
+    "package": "transforEmotion",
     "oncran": true
   }
 ]
