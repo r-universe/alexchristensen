@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "latentFactoR"]
 	path = latentFactoR
 	url = https://github.com/alexchristensen/latentfactor
-	shallow = true
-	registered = true
 [submodule "NetworkToolbox"]
 	path = NetworkToolbox
 	url = https://github.com/alexchristensen/networktoolbox
-	shallow = true
-	registered = true
 [submodule "SemNetCleaner"]
 	path = SemNetCleaner
 	url = https://github.com/alexchristensen/semnetcleaner
-	shallow = true
-	registered = true
 [submodule "SemNetDictionaries"]
 	path = SemNetDictionaries
 	url = https://github.com/alexchristensen/semnetdictionaries
-	shallow = true
-	registered = true
 [submodule "transforEmotion"]
 	path = transforEmotion
 	url = https://github.com/alexchristensen/transforemotion
-	shallow = true
-	registered = true
