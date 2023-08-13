@@ -5,6 +5,9 @@
 [submodule "NetworkToolbox"]
 	path = NetworkToolbox
 	url = https://github.com/alexchristensen/networktoolbox
+[submodule "SemNeT"]
+	path = SemNeT
+	url = https://github.com/alexchristensen/semnet
 [submodule "SemNetCleaner"]
 	path = SemNetCleaner
 	url = https://github.com/alexchristensen/semnetcleaner
