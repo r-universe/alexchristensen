@@ -17,6 +17,3 @@
 [submodule "latentFactoR"]
 	path = latentFactoR
 	url = https://github.com/alexchristensen/latentfactor
-[submodule "transforEmotion"]
-	path = transforEmotion
-	url = https://github.com/alexchristensen/transforemotion
