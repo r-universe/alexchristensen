@@ -14,3 +14,6 @@
 [submodule "SemNetDictionaries"]
 	path = SemNetDictionaries
 	url = https://github.com/alexchristensen/semnetdictionaries
+[submodule "latentFactoR"]
+	path = latentFactoR
+	url = https://github.com/alexchristensen/latentfactor
